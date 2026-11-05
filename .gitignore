@@ -1,0 +1,23 @@
+# R session and IDE state
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+
+# Credentials and environment variables
+.Renviron
+.env
+.env.*
+!.env.example
+
+# Local deployment records
+rsconnect/
+
+# Generated preprocessing/model outputs
+/data/preprocessed/*
+!/data/preprocessed/.gitkeep
+
+# OS files
+.DS_Store
+Thumbs.db

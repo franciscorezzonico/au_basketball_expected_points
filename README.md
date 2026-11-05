@@ -76,8 +76,6 @@ au_basketball_expected_points/
     └── [dashboard images and styles]
 ```
 
-Only fictitious CSVs belong in `data/raw/`. 
-
 ## Run locally
 
 ### 1. Open the project
